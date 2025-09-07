@@ -5,12 +5,11 @@ The goal of this project is to analyze the distribution of salaries and their re
 
 # Project Structure
 - **data/salaries.csv** → Dataset containing salary information for data science roles.
-- **R/salaries_analysis.R** → R script that:
+- **R/salaries_eng.R** → R script that:
   1. Imports and explores the dataset
   2. Analyzes qualitative and quantitative variables
   3. Creates visualizations (bar plots, grouped plots, proportional plots, facets)
 - **output/** → Folder for saving generated graphs
-- **README.md** → Project documentation
 
 # Dataset Overview
 This dataset contains information about salaries of data science professionals.
