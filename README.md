@@ -36,9 +36,4 @@ The analysis includes:
 This analysis was inspired by the work and teaching material of **Luigi Augugliaro, Full Professor at the University of Palermo**.  
 The dataset and concepts were used for **educational purposes only**.
 
-# How to Run
- **Clone this repository:**
-   ```bash
-   git clone https://github.com/sa-codeinfinance/salaries-analysis.git
-
 
