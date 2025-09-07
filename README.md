@@ -25,7 +25,21 @@ This dataset contains information about salaries of data science professionals.
   - SE = Senior-level
   - EX = Expert-level
 
+# Visualizations
+The analysis includes:
+- Basic bar plots for salary currency distribution
+- Grouped bar plots comparing experience level by currency
+- Proportional bar plots showing percentage composition
+- Faceted plots for subgroup analysis
+
+
+# Credits
+This analysis was inspired by the work and teaching material of **Luigi Augugliaro, Full Professor at the University of Palermo**.  
+The dataset and concepts were used for **educational purposes only**.
+
 # How to Run
-1. **Clone this repository:**
+ **Clone this repository:**
    ```bash
    git clone https://github.com/sa-codeinfinance/salaries-analysis.git
+
+
